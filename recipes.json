@@ -1,28 +1,28 @@
 {
     "recipes": [
       {
-        "name": "Grilled Egg & Cheese Sandwich",
-        "image": "assets/grilledcheese.jpg",
-        "ingredients": ["bread", "cheese","egg", "butter"]
+        "name": "Grilled Cheese Sandwich",
+        "image": "assets/grilledCheese.jpg",
+        "ingredients": ["bread", "cheese", "butter"]
       },
       {
         "name": "Scrambled Eggs",
-        "image": "https://via.placeholder.com/150?text=Scrambled+Eggs",
+        "image": "assets/scrambledEggs.jpg",
         "ingredients": ["eggs", "butter", "salt"]
       },
       {
         "name": "Pasta with Tomato Sauce",
-        "image": "https://via.placeholder.com/150?text=Tomato+Pasta",
+        "image": "assets/pastaTomatoSauce.jpg",
         "ingredients": ["pasta", "tomato sauce", "olive oil"]
       },
       {
         "name": "Peanut Butter Toast",
-        "image": "https://via.placeholder.com/150?text=PB+Toast",
+        "image": "assets/peanutButterToast.jpg",
         "ingredients": ["bread", "peanut butter"]
       },
       {
         "name": "Omelette",
-        "image": "https://via.placeholder.com/150?text=Omelette",
+        "image": "assets/omelette.jpg",
         "ingredients": ["eggs", "cheese", "milk", "pepper"]
       }
     ]
