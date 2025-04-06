@@ -1,0 +1,30 @@
+{
+    "recipes": [
+      {
+        "name": "Grilled Egg & Cheese Sandwich",
+        "image": "https://via.placeholder.com/150?text=Grilled+Cheese",
+        "ingredients": ["bread", "cheese","egg", "butter"]
+      },
+      {
+        "name": "Scrambled Eggs",
+        "image": "https://via.placeholder.com/150?text=Scrambled+Eggs",
+        "ingredients": ["eggs", "butter", "salt"]
+      },
+      {
+        "name": "Pasta with Tomato Sauce",
+        "image": "https://via.placeholder.com/150?text=Tomato+Pasta",
+        "ingredients": ["pasta", "tomato sauce", "olive oil"]
+      },
+      {
+        "name": "Peanut Butter Toast",
+        "image": "https://via.placeholder.com/150?text=PB+Toast",
+        "ingredients": ["bread", "peanut butter"]
+      },
+      {
+        "name": "Omelette",
+        "image": "https://via.placeholder.com/150?text=Omelette",
+        "ingredients": ["eggs", "cheese", "milk", "pepper"]
+      }
+    ]
+  }
+  
