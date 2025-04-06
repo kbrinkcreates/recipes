@@ -2,7 +2,7 @@
     "recipes": [
       {
         "name": "Grilled Egg & Cheese Sandwich",
-        "image": "https://via.placeholder.com/150?text=Grilled+Cheese",
+        "image": "assets/grilledcheese.jpg",
         "ingredients": ["bread", "cheese","egg", "butter"]
       },
       {
